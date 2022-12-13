@@ -32,8 +32,6 @@ public class MainApp {
 
       System.out.println(userService.findUserWithCar("model2",222));
 
-
-
       context.close();
    }
 }
